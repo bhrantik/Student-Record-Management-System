@@ -22,6 +22,13 @@ You can **add, view, update, delete, and search** student details.
 
 ---
 
+## Output Screenshot
+
+<img width="353" height="741" alt="Screenshot 2025-10-21 190040" src="https://github.com/user-attachments/assets/bfdd14c4-d026-4f4d-8830-4211e3afc6ce" />
+<img width="353" height="741" alt="Screenshot 2025-10-21 190222" src="https://github.com/user-attachments/assets/f20f54d9-84af-472a-9c1c-6d1bcd088ecf" />
+
+
+
 ## Project Structure
 
 ```StudentRecordManagement/
@@ -32,4 +39,3 @@ You can **add, view, update, delete, and search** student details.
 │   └── StudentManager.java
 └── README.md
 
-## 
